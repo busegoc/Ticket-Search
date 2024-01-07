@@ -1,0 +1,95 @@
+.loginPage {
+    background-image: url('./../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.signupPage {
+    background-image: url('./../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.ticketSearch {
+    background-image: url('./../images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+
+
+.busStyle {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.195);
+    border-radius: 25px;
+  
+}
+
+
+.ticketDetails {
+
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0;
+}
+
+.otherDetails {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 25px;
+}
+
+.card{
+    margin-top: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.creditCard{
+    background-image: url(../images/credit-card.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 495px;
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: right;
+}
+.inputCardNo{
+    margin-top: 250px;
+    margin-left: 50px;
+    background-color: transparent;
+}
+
+.stayInTheMiddle{
+    margin-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

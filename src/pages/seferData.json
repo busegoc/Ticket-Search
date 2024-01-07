@@ -1,0 +1,27 @@
+[
+    {
+        "kalkis": "Ankara",
+        "varis": "Istanbul",
+        "tarih": "2024-01-10"
+    },
+    {
+        "kalkis": "Istanbul",
+        "varis": "Ankara",
+        "tarih": "2024-01-09"
+    },
+    {
+        "kalkis": "Istanbul",
+        "varis": "Ankara",
+        "tarih": "2024-01-10"
+    },
+    {
+        "kalkis": "Ankara",
+        "varis": "Izmir",
+        "tarih": "2024-01-10"
+    },
+    {
+        "kalkis": "Istanbul",
+        "varis": "Izmir",
+        "tarih": "2024-01-11"
+    }
+]
