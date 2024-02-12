@@ -3,7 +3,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import Login from './pages/Login';
 import Signup from './pages/Signup';
-import Home from './pages/Home'; // Örnek bir ana sayfa bileşeni
+import Home from './pages/Home';
 import TicketInfo from './pages/TicketInfo';
 
 function App() {
